@@ -1,0 +1,12 @@
+body { background: white;
+
+    background: -webkit-linear-gradient(right, rgba(73,220,222,1), rgba(245,227,188,1));
+	
+}
+
+h1 {
+  color: rgb(1,42,54);
+}
+p {
+  color: rgb(41,47,54);
+}
